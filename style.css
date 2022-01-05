@@ -21,7 +21,17 @@ section{ color: white;
     border-radius: 10px;
     padding: 3px 10px;
 }
-.bg-banner{background-image: url(./images/modern-futuristic-sci-fi-background.jpg);}
+.bg-banner{background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
+    
+background-repeat: no-repeat;
+
+
+}
 .dream-big{
     background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
+    
+background-repeat: no-repeat;
+
+
+
 }
