@@ -4,7 +4,7 @@ body{
 .color{ color: cyan;}
 section{ color: white;
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 0px;
 }
 .half-width{ 
     width: 50%;
