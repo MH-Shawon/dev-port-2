@@ -3,7 +3,8 @@ body{
 }
 .color{ color: cyan;}
 section{ color: white;
-    display: flex;   
+    display: flex;
+    margin-bottom: 150px;
 }
 .half-width{ 
     width: 50%;
@@ -21,3 +22,6 @@ section{ color: white;
     padding: 3px 10px;
 }
 .bg-banner{background-image: url(./images/modern-futuristic-sci-fi-background.jpg);}
+.dream-big{
+    background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
+}
